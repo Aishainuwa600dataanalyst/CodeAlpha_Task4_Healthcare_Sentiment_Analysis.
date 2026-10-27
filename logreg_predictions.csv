@@ -1,0 +1,830 @@
+urlDrugName,condition,rating,sentiment,predicted_sentiment,correct_prediction
+biaxin,bronchitis,3,Negative,Negative,True
+enbrel,psoriasis,9,Positive,Positive,True
+lexapro,depression,8,Positive,Positive,True
+zyprexa,depression,10,Positive,Positive,True
+desyrel,insomnia,9,Positive,Neutral,False
+trimethoprim,bladder infections,10,Positive,Neutral,False
+adipex-p,diet,9,Positive,Positive,True
+wellbutrin-xl,"dysthymia ( chronic, low grade depression )",10,Positive,Positive,True
+lac-hydrin,extremely dry skin,5,Neutral,Positive,False
+darvocet-n,arthritic joint pain/carpal tunnel,8,Positive,Positive,True
+tamiflu,swine flu,10,Positive,Positive,True
+tazorac,acne,6,Neutral,Positive,False
+retin-a-micro,clearing skin,5,Neutral,Neutral,True
+diovan,hypertension,5,Neutral,Positive,False
+armour-thyroid,hypothyroid,8,Positive,Positive,True
+fosamax,osteroporosis,5,Neutral,Negative,False
+prevacid,gerd,10,Positive,Positive,True
+lipitor,reduce cholesterol,10,Positive,Positive,True
+lumigan,glaucoma,10,Positive,Positive,True
+mobic,rotator cuff tear,10,Positive,Neutral,False
+amoxil,glandular fever,1,Negative,Negative,True
+wellbutrin-xl,depression,9,Positive,Positive,True
+buspar,gad - generalised anxiety disorder.,9,Positive,Neutral,False
+zegerid,laryngopharyngeal reflux,8,Positive,Positive,True
+prinivil,diabetes,4,Negative,Negative,True
+biaxin,sinus infection,9,Positive,Negative,False
+vicodin,burn from motorcycle accident,8,Positive,Neutral,False
+meridia,obesity,7,Positive,Positive,True
+niaspan,high cholesterol,10,Positive,Positive,True
+topamax,migraine,3,Negative,Negative,True
+biaxin,"sinus infection, chest infection",7,Positive,Negative,False
+tri-luma,melasma,3,Negative,Positive,False
+mobic,arthritis,10,Positive,Positive,True
+prevacid,pre-barrett (errosion of the esophagus),8,Positive,Neutral,False
+protopic,ezcema,8,Positive,Positive,True
+lamisil,ingrown toenails,10,Positive,Positive,True
+zithromax,sinusitis,8,Positive,Positive,True
+metformin,diabetes,7,Positive,Positive,True
+emsam,"chronic ""atypical"" depression",9,Positive,Positive,True
+yasmin,"birth control, menstrual cramps",8,Positive,Positive,True
+xalatan,glaucoma,8,Positive,Positive,True
+prinivil,high blood pressure,10,Positive,Positive,True
+augmentin,"sinusitis,quinsy",7,Positive,Negative,False
+flonase,nasal polyps,8,Positive,Positive,True
+remicade,stills disase,1,Negative,Negative,True
+adipex-p,chronic fatigue syndrome,10,Positive,Positive,True
+flonase,nasal allergies,10,Positive,Positive,True
+lasix,congestive heart failure and edema,7,Positive,Negative,False
+wellbutrin-xl,depression,8,Positive,Positive,True
+lithium-carbonate,bipolar disorder ii,8,Positive,Positive,True
+levitra,ed,10,Positive,Positive,True
+crestor,hypercholesteremia,5,Neutral,Negative,False
+klonopin,panic disorder,7,Positive,Positive,True
+sotret,acne,10,Positive,Positive,True
+levoxyl,thyroid,10,Positive,Positive,True
+zoloft,depression,10,Positive,Positive,True
+nuvigil,shift work sleep disorder,6,Neutral,Positive,False
+valtrex,herpes,6,Neutral,Positive,False
+sulindac,baker's cysts behind both knees,4,Negative,Negative,True
+zoloft,depression,8,Positive,Positive,True
+inspra,conn's syndrome,2,Negative,Negative,True
+glucophage-xr,diabetes type ii,7,Positive,Positive,True
+effexor,depression,5,Neutral,Negative,False
+zomig,migraine,10,Positive,Positive,True
+tazorac,"wrinkles,uneven skin tone,large pores",7,Positive,Positive,True
+zoloft,depression,6,Neutral,Positive,False
+remeron,"anxiety, depression, panic attacks",10,Positive,Positive,True
+propecia,hair loss,1,Negative,Negative,True
+dispermox,tonsillitis/strep throat,3,Negative,Negative,True
+etodolac,osteo-arthritis,9,Positive,Positive,True
+efudex,actinic keratoses,4,Negative,Neutral,False
+nasonex,allergy,10,Positive,Positive,True
+neurontin,spinal injury,9,Positive,Positive,True
+claritin,allergies,8,Positive,Positive,True
+crestor,high colesteral,10,Positive,Positive,True
+zomig,migraine,8,Positive,Positive,True
+celebrex,arthritis,3,Negative,Negative,True
+propecia,1mg,9,Positive,Positive,True
+singulair,asthma,1,Negative,Negative,True
+tramadol,2 compressed discs in neck,9,Positive,Positive,True
+cymbalta,depression anxiety,5,Neutral,Negative,False
+lipitor,high cholesterol,10,Positive,Positive,True
+ambien,insomnia,1,Negative,Positive,False
+wellbutrin,depression,2,Negative,Positive,False
+zoloft,"irritability,anxiety",10,Positive,Negative,False
+levaquin,sinus infections,8,Positive,Negative,False
+lexapro,anxiety depression,1,Negative,Negative,True
+restasis,severe dry eyes,8,Positive,Positive,True
+synthroid,hypothyroid,10,Positive,Positive,True
+naproxen,carpal tunnel,1,Negative,Negative,True
+prozac,depression,9,Positive,Positive,True
+prozac,depression,7,Positive,Neutral,False
+zomig,migraine,10,Positive,Positive,True
+avelox,sinus infection,9,Positive,Positive,True
+clomid,infertility,1,Negative,Positive,False
+doxycycline,acne,8,Positive,Neutral,False
+remicade,crohns disease  & colitis,2,Negative,Negative,True
+klonopin,"tia type seizures, stress",1,Negative,Negative,True
+dexedrine,supposed adhd,3,Negative,Negative,True
+atripla,hiv,10,Positive,Positive,True
+retin-a,minor acne,10,Positive,Neutral,False
+prozac,depression,1,Negative,Negative,True
+keflex,chronic sinusitis,9,Positive,Positive,True
+flexeril,restless sleep,7,Positive,Positive,True
+doxycycline,m.r.s.a.,8,Positive,Positive,True
+xyrem,"narcolepsy, fibromyalgia",9,Positive,Positive,True
+lipitor,high cholesterol,10,Positive,Positive,True
+seasonique,birth control. prevention of pregnacy,2,Negative,Negative,True
+propecia,hair loss,5,Neutral,Negative,False
+retin-a-micro,acne,8,Positive,Positive,True
+ambien-cr,sleeplessness,10,Positive,Positive,True
+paxil,depression and anxiety,10,Positive,Positive,True
+tazorac,wrinkles premature aging,5,Neutral,Neutral,True
+valtrex,cold sore on side of face,9,Positive,Positive,True
+lipitor,elevated cholesterol,10,Positive,Positive,True
+ecotrin,headache,7,Positive,Negative,False
+meperidine,painkiller after surgery,8,Positive,Negative,False
+methotrexate,rheumatoid arthritis,9,Positive,Negative,False
+protopic,vitalago,5,Neutral,Positive,False
+doxycycline,epididymitus,4,Negative,Negative,True
+wellbutrin-xl,depression,8,Positive,Positive,True
+protopic,white spots on facial skin,10,Positive,Positive,True
+zofran,nausea,8,Positive,Positive,True
+imitrex,migraine headaches,9,Positive,Positive,True
+ambien-cr,to help sleep,9,Positive,Positive,True
+renova,wrinkles,5,Neutral,Neutral,True
+propecia,hair less,9,Positive,Positive,True
+minoxidil,hair loss,9,Positive,Positive,True
+panixine-disperdose,mild local skin infection,2,Negative,Negative,True
+motrin,back stiffness,10,Positive,Positive,True
+lexapro,depression,9,Positive,Positive,True
+warfarin,heart condition,6,Neutral,Positive,False
+accutane,acne,9,Positive,Positive,True
+retin-a,"initially, acne; later, anti-wrinkle",8,Positive,Positive,True
+cymbalta,depression,7,Positive,Positive,True
+zyrtec,sinus infections/constant mucus & post nasal drip,3,Negative,Negative,True
+depo-provera,birth control,5,Neutral,Positive,False
+meridia,over weight,10,Positive,Neutral,False
+armour-thyroid,hypothyroid,10,Positive,Negative,False
+accutane,acne,10,Positive,Positive,True
+remicade,"crohns disease, psoriatic arthritis",7,Positive,Negative,False
+augmentin,sinus infection,1,Negative,Negative,True
+proquin-xr,urinary tract infrection,10,Positive,Positive,True
+ultram,budging disk in neck,8,Positive,Negative,False
+androgel,male andropause,10,Positive,Positive,True
+propranolol,rapid heart rate,5,Neutral,Negative,False
+celexa,anxiety attacks when driving,10,Positive,Positive,True
+lexapro,depression,6,Neutral,Neutral,True
+prinivil,high blood pressure,8,Positive,Negative,False
+levoxyl,hypothyroidism,1,Negative,Positive,False
+neurontin,chronic pain (neck and migraines),6,Neutral,Neutral,True
+tramadol,"osteochondral injury of the talus, left ankle",1,Negative,Negative,True
+duac,"skin probles - acne, balckheads",3,Negative,Neutral,False
+relpax,migraine headaches,8,Positive,Positive,True
+adipex-p,obesity,7,Positive,Positive,True
+dilantin,seizures,8,Positive,Positive,True
+metformin,diabetese,10,Positive,Positive,True
+lithium-carbonate,bipolar disorder,5,Neutral,Negative,False
+dispermox,tooth abscess,10,Positive,Positive,True
+prempro,menopause,7,Positive,Positive,True
+lyrica,fibromyalgia,1,Negative,Negative,True
+zovirax,severe cold sores,8,Positive,Positive,True
+effexor,depression,7,Positive,Positive,True
+nexium,acid reflux,10,Positive,Positive,True
+seasonale,birth control,9,Positive,Positive,True
+xenical,over weight,3,Negative,Positive,False
+prednisone,"relapsing remitting ms, possible neuro sarcoidosis",10,Positive,Negative,False
+elavil,fibromyalgia,8,Positive,Positive,True
+mobic,arthritis pain,8,Positive,Positive,True
+cipro,puncture wound,1,Negative,Positive,False
+symbicort,asthma,7,Positive,Positive,True
+claritin,allergies,5,Neutral,Positive,False
+zyrtec,allergies,8,Positive,Positive,True
+percocet,menstrual migraines,8,Positive,Positive,True
+valtrex,herpes,9,Positive,Positive,True
+morphine,"for tramflap surgery,implant removal",1,Negative,Negative,True
+enbrel,rheumatiod arthritis,10,Positive,Positive,True
+pristiq,migraine headaches,7,Positive,Negative,False
+synthroid,hypothyroidism,4,Negative,Positive,False
+paxil,"panic attacks, depression",10,Positive,Positive,True
+abilify,depression,6,Neutral,Neutral,True
+differin,acne,8,Positive,Positive,True
+catapres,hot flashes,2,Negative,Negative,True
+claripel-cream,acne scarring & hyperpigmentation,8,Positive,Positive,True
+mobic,neck and back pain/  whiplash,3,Negative,Negative,True
+premarin-vaginal,vaginal dryness/bladder inflamation-irritations,10,Positive,Neutral,False
+chantix,smoking cessation,7,Positive,Positive,True
+sotret,acne,9,Positive,Negative,False
+neurontin,nerve disorder,6,Neutral,Positive,False
+vyvanse,"attention issues, to much to do/ too little time",10,Positive,Positive,True
+duac,acne,6,Neutral,Positive,False
+vyvanse,add,1,Negative,Positive,False
+ortho-tri-cyclen,birthcontrol,10,Positive,Positive,True
+celexa,depression,8,Positive,Negative,False
+ambien,insomnia,8,Positive,Positive,True
+chantix,quit smoking,2,Negative,Negative,True
+synthroid,low under active thyroid,10,Positive,Neutral,False
+lamictal,seizure disorder,10,Positive,Positive,True
+prozac,pms,1,Negative,Negative,True
+dysport,brow wrinkles,3,Negative,Negative,True
+prednisone,chest infection (viral),9,Positive,Negative,False
+adipex-p,weight loss,8,Positive,Positive,True
+citalopram,depression,9,Positive,Positive,True
+valtrex,herpes cold sores around mouth and nose,10,Positive,Positive,True
+metrogel,rosacea,10,Positive,Positive,True
+vivelle-dot,hysterectomy,9,Positive,Positive,True
+wellbutrin,depression,7,Positive,Positive,True
+protonix,acid reflux,8,Positive,Positive,True
+mobic,severe wrist pain,10,Positive,Positive,True
+proquin-xr,possible uti - i think?,1,Negative,Negative,True
+zyban,smoking,10,Positive,Positive,True
+cymbalta,peripheral neuropathy,10,Positive,Positive,True
+imuran,lupus,7,Positive,Positive,True
+seroquel,anxiety/mild ptsd,8,Positive,Neutral,False
+lexapro,depression/anxiety,7,Positive,Positive,True
+maxalt,migraines,9,Positive,Positive,True
+oxybutynin,spastic bladder,9,Positive,Positive,True
+ultram-er,cervical disk degeneration and lower back pain,10,Positive,Positive,True
+risperdal,bi-polar mania with anger issues,3,Negative,Positive,False
+avage,wrinkles,8,Positive,Positive,True
+ritalin,fibromyalgia,10,Positive,Neutral,False
+accutane,serve acne,8,Positive,Negative,False
+requip,restless leg syndrome,10,Positive,Positive,True
+ponstel,severe menstrual cramps,10,Positive,Positive,True
+wellbutrin-sr,depression,9,Positive,Positive,True
+risperdal,bipolar disorder,4,Negative,Neutral,False
+remeron,depression -- anxiety -- insominia,6,Neutral,Negative,False
+seroquel,bipolar disorder,9,Positive,Positive,True
+tri-luma,"acne, melasma",8,Positive,Neutral,False
+vigamox,conjunctivitus,10,Positive,Positive,True
+femhrt,menopause,5,Neutral,Positive,False
+zithromax,pneumonia,10,Positive,Positive,True
+aldactone,acne,7,Positive,Positive,True
+prinivil,hypertension,5,Neutral,Positive,False
+metronidazole,bacterial growth,8,Positive,Positive,True
+amoxil,infected site of oreal surgery,8,Positive,Negative,False
+paxil,anxiety,8,Positive,Neutral,False
+maxalt,headaches,9,Positive,Positive,True
+wellbutrin,depression,10,Positive,Negative,False
+claritin,cold,8,Positive,Positive,True
+estratest,menopause - hrt,10,Positive,Positive,True
+effexor-xr,depression,8,Positive,Positive,True
+biaxin,ear and throat infection,3,Negative,Positive,False
+lipitor,high colorestoral,3,Negative,Negative,True
+percocet,back pain,6,Neutral,Negative,False
+minocycline,acne,4,Negative,Negative,True
+alprazolam,"anxiety, panic attck, nervousness",8,Positive,Positive,True
+fexofenadine,seasonal allergy,8,Positive,Positive,True
+metrogel,rosacea,8,Positive,Positive,True
+protonix,gerd,10,Positive,Negative,False
+tekturna-hct,high blood pressure,1,Negative,Negative,True
+adderall,attention deficit disorder,8,Positive,Positive,True
+accutane,acne,9,Positive,Negative,False
+paxil,depression and anxiety.,8,Positive,Positive,True
+metrogel,rosacea,4,Negative,Negative,True
+xenical,obesity,9,Positive,Positive,True
+biaxin,strep throat,7,Positive,Negative,False
+ultram,cervical osteoarthritis,8,Positive,Positive,True
+metrogel,rosacea,1,Negative,Negative,True
+differin,blackheads,6,Neutral,Positive,False
+benicar,hypertension,10,Positive,Positive,True
+adderall,attention deficit disorder,9,Positive,Positive,True
+sumatriptan,maigrains,10,Positive,Positive,True
+renova,for treating wrinkles,10,Positive,Positive,True
+zmax,sinus infection,5,Neutral,Positive,False
+enbrel,ra,1,Negative,Negative,True
+tussionex,mycoplasma bronchitis,8,Positive,Negative,False
+armour-thyroid,thyroid goiter,8,Positive,Positive,True
+ambien-cr,insomnia,10,Positive,Positive,True
+prednisone,sudden sensorineural hearing loss,7,Positive,Negative,False
+amoxil,throat infection,7,Positive,Negative,False
+accupril,hypertension,9,Positive,Positive,True
+noritate,rash under nasal area,10,Positive,Positive,True
+restoril,sleep,9,Positive,Positive,True
+flexeril,upper back / left shoulder and neck pain,6,Neutral,Positive,False
+seasonale,irregular cycles,8,Positive,Positive,True
+percocet,pain management after sugery,3,Negative,Negative,True
+augmentin,migraine in assoc /w upper resp infection,7,Positive,Positive,True
+synthroid,hashimotos disease,10,Positive,Positive,True
+acyclovir,herpes,10,Positive,Positive,True
+zomig,migraine,4,Negative,Positive,False
+synthroid,multinodular goiter,7,Positive,Positive,True
+klaron,skin problem,8,Positive,Positive,True
+effexor-xr,anxiety,8,Positive,Positive,True
+augmentin,cat bite infection,5,Neutral,Neutral,True
+prozac,depression,8,Positive,Positive,True
+biaxin,sinus infection,8,Positive,Positive,True
+maxalt,migraine,9,Positive,Positive,True
+retin-a,acne,10,Positive,Positive,True
+mirtazapine,clinical depression,2,Negative,Negative,True
+lexapro,clinical depression,1,Negative,Negative,True
+avage,anti aging,8,Positive,Positive,True
+elavil,depression,10,Positive,Positive,True
+retin-a-micro,acne,7,Positive,Positive,True
+lyrica,pain,7,Positive,Neutral,False
+asmanex,asthma,8,Positive,Positive,True
+keflex,tooth infection,1,Negative,Negative,True
+elocon,eczema,10,Positive,Positive,True
+finacea,rosacea/acne,8,Positive,Positive,True
+plavix,r.a.,10,Positive,Positive,True
+wellbutrin-xl,depression/anxiety,10,Positive,Positive,True
+flagyl,bacterial vaginosis,8,Positive,Positive,True
+citalopram,depression/bipolar affective component,9,Positive,Positive,True
+concerta,add,8,Positive,Positive,True
+klonopin,anxiety and depression,9,Positive,Positive,True
+synthroid,hypothyroidism,7,Positive,Neutral,False
+celebrex,knee pain,3,Negative,Positive,False
+topamax,"seizures,migraines,fibro.",6,Neutral,Positive,False
+nexium,acid reflux,9,Positive,Positive,True
+soltamox,breast cancer,5,Neutral,Neutral,True
+diovan,high bp,3,Negative,Positive,False
+mevacor,originally brain lesions then lower cholesterol,2,Negative,Neutral,False
+remicade,crohn's with fistula in ano,10,Positive,Negative,False
+pristiq,stress-related anxiety,2,Negative,Positive,False
+zoloft,depression,9,Positive,Positive,True
+valium,sciatica and low back pain,9,Positive,Positive,True
+spironolactone,acne,6,Neutral,Positive,False
+vioxx,possible arthritis,3,Negative,Negative,True
+xenical,obesity,4,Negative,Positive,False
+xanax,anxiety,4,Negative,Negative,True
+differin,acne,9,Positive,Neutral,False
+chantix,smoking cessation,1,Negative,Negative,True
+vyvanse,inattention  and disorganization,9,Positive,Positive,True
+dispermox,abcessed tooth,1,Negative,Negative,True
+symbicort,"asthma, emphysema",10,Positive,Positive,True
+effexor,panic attacks and depression,9,Positive,Positive,True
+desyrel,anxiety,2,Negative,Negative,True
+zyban,stop smoking,4,Negative,Negative,True
+dilaudid,headaches,1,Negative,Positive,False
+imodium,diarrhea,6,Neutral,Negative,False
+topamax,migraine prevention,8,Positive,Positive,True
+diazepam,muscle relaxant - spinal disorder,8,Positive,Positive,True
+zomig,migraine,9,Positive,Positive,True
+aricept,alzheimer's,2,Negative,Negative,True
+synthroid,thyroid,10,Positive,Positive,True
+doxycycline,deep gum pockets,6,Neutral,Positive,False
+lorazepam,"insomnia, anxiety",10,Positive,Positive,True
+allegra,allergies,6,Neutral,Negative,False
+xanax,anxiety,10,Positive,Positive,True
+imitrex,migraines,10,Positive,Positive,True
+provigil,shift disorder,10,Positive,Positive,True
+imitrex,migraine,1,Negative,Negative,True
+cyproheptadine,allergies,7,Positive,Positive,True
+enbrel,rheumatoid arthritis,6,Neutral,Neutral,True
+wellbutrin,depression,10,Positive,Neutral,False
+keppra,for epilepsy,5,Neutral,Positive,False
+vagifem,postmenopausal vaginal atrophy,8,Positive,Negative,False
+ortho-tri-cyclen,birth prevention,1,Negative,Positive,False
+valtrex,coldsores,10,Positive,Positive,True
+zyban,smoking,9,Positive,Positive,True
+adipex-p,weight loss,8,Positive,Positive,True
+pentasa,crohn's disease,10,Positive,Positive,True
+allegra,allergies,10,Positive,Positive,True
+allegra,hives,8,Positive,Positive,True
+bentyl,diaheria assc. w/ chemo,7,Positive,Neutral,False
+xanax,sleeping aid,8,Positive,Positive,True
+vesicare,frequent urination,7,Positive,Positive,True
+metformin,prevention of diabetes,8,Positive,Positive,True
+diclofenac,slipped disc in back,8,Positive,Positive,True
+seasonique,prevention of pregnancy/lighter periods,8,Positive,Negative,False
+betamethasone,"itchy, red, irritated skin",10,Positive,Positive,True
+accutane,acne,8,Positive,Positive,True
+fosamax,a little bit of osteoporosis in the hips,8,Positive,Positive,True
+premarin,menopause,1,Negative,Negative,True
+remicade,crohn's disease,8,Positive,Positive,True
+ortho-tri-cyclen,prevent pregnancy,7,Positive,Negative,False
+fosamax,osteoporosis,8,Positive,Positive,True
+cyproheptadine,"allergy, runny nose, hay fever",3,Negative,Negative,True
+claritin,allergies,7,Positive,Positive,True
+tirosint,hypothyroidsim,9,Positive,Positive,True
+flexeril,muscle spasms (upper back/neck),8,Positive,Positive,True
+levoxyl,hypothyroid problem,10,Positive,Negative,False
+ambien,inability to fall asleep easily,8,Positive,Positive,True
+flexeril,back pain,7,Positive,Negative,False
+wellbutrin,anxiety/ mild depression,9,Positive,Positive,True
+flomax,"kidney pain, difficult urination",8,Positive,Neutral,False
+nordette,pregnancy avoidance,10,Positive,Negative,False
+ceclor,upper respiratory infection on vacation,1,Negative,Negative,True
+prednisone,hives,10,Positive,Positive,True
+oxycontin,chronic nerve pain from back surgery,8,Positive,Positive,True
+clindamycin,post dental work,2,Negative,Negative,True
+lyrica,complex regional pain sydrome,8,Positive,Positive,True
+ortho-tri-cyclen-lo,contraception,9,Positive,Positive,True
+chantix,smoking cessation,10,Positive,Positive,True
+vyvanse,adult adhd,10,Positive,Positive,True
+seasonique,prevent pregnancy/reduce frequency of migraines,2,Negative,Positive,False
+prozac,depression,9,Positive,Positive,True
+chantix,smoking cessation,2,Negative,Negative,True
+celexa,depression,9,Positive,Positive,True
+crestor,familial hypercholesterolaemia,1,Negative,Positive,False
+citalopram,anxiety,10,Positive,Positive,True
+nuvaring,irregularity/no babies!,8,Positive,Negative,False
+imitrex,migraines,2,Negative,Positive,False
+ortho-tri-cyclen,birth control,10,Positive,Positive,True
+viagra,ed,10,Positive,Positive,True
+pristiq,depression,8,Positive,Positive,True
+lumigan,cosmetic longer lashes,7,Positive,Positive,True
+citalopram,depression,7,Positive,Positive,True
+wellbutrin-xl,depression,7,Positive,Positive,True
+efudex,skin cancers,10,Positive,Neutral,False
+zoloft,traumatic brain injury,7,Positive,Negative,False
+imodium,diarrhoea/ibs,9,Positive,Positive,True
+paxil,depression,9,Positive,Positive,True
+propecia,hair loss,1,Negative,Negative,True
+prozac,depression,7,Positive,Positive,True
+cymbalta,anxiety,8,Positive,Positive,True
+depo-provera,contraception,4,Negative,Negative,True
+remeron,depression,2,Negative,Neutral,False
+chantix,smoking cessation,10,Positive,Negative,False
+depakene,bipolar disorder,4,Negative,Negative,True
+retin-a-micro,acne,10,Positive,Positive,True
+isoniazid,tuberculosis,7,Positive,Negative,False
+levaquin,bronchitis,1,Negative,Negative,True
+duac,acne,7,Positive,Positive,True
+doxycycline,rosacea,7,Positive,Negative,False
+estrace,replacement thearpy,10,Positive,Positive,True
+catapres,high blood pressure,8,Positive,Positive,True
+buspar,anxiety,7,Positive,Neutral,False
+glucophage,diabetes,7,Positive,Neutral,False
+effexor-xr,high level anxiety/depression,9,Positive,Positive,True
+risperdal-consta,psychotic symptoms,9,Positive,Positive,True
+risperdal,schizophrenia,1,Negative,Negative,True
+lexapro,depression,9,Positive,Positive,True
+prozac,depression,7,Positive,Negative,False
+singulair,allergies,10,Positive,Positive,True
+effexor,"depression, rumination, anxiety",7,Positive,Negative,False
+diovan,high blood pressure,7,Positive,Positive,True
+avelox,sinus infection,1,Negative,Negative,True
+zoloft,anxiety,10,Positive,Positive,True
+premarin,radical hysterectomy,10,Positive,Positive,True
+xenical,weight loss,6,Neutral,Positive,False
+neurontin,nerve damage,6,Neutral,Positive,False
+wellbutrin,depression; intrusive suicidal impulses,10,Positive,Positive,True
+latisse,grow lashes,10,Positive,Positive,True
+sarafem,severe depression,8,Positive,Positive,True
+naprosyn,back,6,Neutral,Positive,False
+lyrica,fibromyalgia,6,Neutral,Neutral,True
+lipitor,high cholesterol,3,Negative,Neutral,False
+xanax,anxiety related to severe pms,10,Positive,Positive,True
+niacor,high cholesterol,3,Negative,Positive,False
+motrin,migraine,10,Positive,Positive,True
+chantix,smoking cessation,3,Negative,Negative,True
+singulair,asthmas/ rhinitis,8,Positive,Negative,False
+trazodone,hard time getting asleep,8,Positive,Positive,True
+lamictal,bipolar ii,10,Positive,Positive,True
+selegiline,cognitive enhancement,8,Positive,Positive,True
+allegra,poison ivy,10,Positive,Positive,True
+paxil,depression,7,Positive,Neutral,False
+advair-diskus,asthma,10,Positive,Positive,True
+albuterol,asthma,9,Positive,Positive,True
+augmentin,severe abcessed tooth,9,Positive,Positive,True
+neurontin,genitofemoral nerve damage,1,Negative,Negative,True
+renova,wrinkles,7,Positive,Positive,True
+effexor-xr,"anxiety, mild depression",8,Positive,Positive,True
+cymbalta,depression,8,Positive,Positive,True
+spiriva,asthma,9,Positive,Positive,True
+depo-provera,birth control,5,Neutral,Negative,False
+septra,prevention of pcp pneumonia while on chemo,5,Neutral,Negative,False
+singulair,asthma/allergies,9,Positive,Positive,True
+ultram,sciatica and back pain,3,Negative,Neutral,False
+prednisone,asthma,5,Neutral,Negative,False
+metformin,type 2 diabetes,8,Positive,Positive,True
+lamictal,bipolar ii,1,Negative,Negative,True
+lorazepam,anxiety,4,Negative,Negative,True
+aloprim,gout,8,Positive,Positive,True
+proscar,bph,9,Positive,Positive,True
+nexium,gerd/barret's esophogus,10,Positive,Negative,False
+renova,wrinkles,6,Neutral,Neutral,True
+doryx,acne,4,Negative,Positive,False
+ultram,hand pain,8,Positive,Positive,True
+atenolol,blood pressure,7,Positive,Negative,False
+retin-a,extrinsic aging,10,Positive,Positive,True
+xyrem,fibromyalgia,9,Positive,Positive,True
+prempro,menopausal symptoms,2,Negative,Negative,True
+klonopin,substitute for a barbiturate,10,Positive,Positive,True
+emsam,major chronic depressive disorder,9,Positive,Positive,True
+citalopram,depression,8,Positive,Positive,True
+zyprexa,bipolar disorder type ii,1,Negative,Negative,True
+ativan,sleep problem,2,Negative,Negative,True
+depo-provera,birth control,1,Negative,Negative,True
+aciphex,acid reflux,10,Positive,Positive,True
+actonel,prevent osteoporose,1,Negative,Positive,False
+chantix,smoking,10,Positive,Positive,True
+retin-a-micro,repair and prevent wrinkles,9,Positive,Neutral,False
+keflex,post operative antibiotic,10,Positive,Positive,True
+proscar,hair loss,8,Positive,Positive,True
+macrobid,uti,1,Negative,Negative,True
+citalopram,depression,10,Positive,Positive,True
+synthroid,hypthyroidism,7,Positive,Negative,False
+zoloft,depression,8,Positive,Positive,True
+zyban,quit smoking,1,Negative,Negative,True
+nasonex,allergies,10,Positive,Positive,True
+lipitor,incontinence,10,Positive,Positive,True
+oxycodone,teeth extractions,9,Positive,Positive,True
+flonase,sinus congestion / allergies,9,Positive,Positive,True
+trimethobenzamide,vertigo,9,Positive,Positive,True
+methylphenidate,adult  add,10,Positive,Positive,True
+nuvaring,birth control,10,Positive,Negative,False
+accutane,severe acne,10,Positive,Positive,True
+topamax,migranes,1,Negative,Negative,True
+restoril,insomnia,10,Positive,Positive,True
+flonase,nasal congestion from allergies,5,Neutral,Positive,False
+remicade,severe ulcerative colitis,5,Neutral,Negative,False
+wellbutrin,depression,10,Positive,Positive,True
+norvasc,hypertension,5,Neutral,Neutral,True
+ortho-tri-cyclen-lo,acne,7,Positive,Negative,False
+alprazolam,anxiety,10,Positive,Positive,True
+levoxyl,thyroid disease,9,Positive,Negative,False
+zoloft,"depression, clinical level",10,Positive,Positive,True
+restoril,insomnia,8,Positive,Positive,True
+propecia,hair loss,10,Positive,Positive,True
+flexeril,migaine/tension headches,8,Positive,Negative,False
+lamisil,yeast,5,Neutral,Negative,False
+dispermox,jaw abscess,8,Positive,Negative,False
+antivert,labyrinthitis,10,Positive,Negative,False
+zocor,high cholesterol,1,Negative,Negative,True
+ambien,insomnia,8,Positive,Positive,True
+cymbalta,depression,7,Positive,Positive,True
+cipro,uti,9,Positive,Positive,True
+naprosyn,muscle inflammation,1,Negative,Negative,True
+nolvadex,breast cancer,10,Positive,Negative,False
+renova,skin pores/fine lines,7,Positive,Positive,True
+pristiq,depression/anxiety,8,Positive,Positive,True
+metronidazole,bacterial vaginosis,7,Positive,Negative,False
+diclofenac,mild arthritis in knees,9,Positive,Negative,False
+propranolol,tremor,10,Positive,Positive,True
+maxalt,migraines,10,Positive,Positive,True
+klonopin,anxiety,8,Positive,Positive,True
+differin,acne,7,Positive,Neutral,False
+nuvaring,birth control,9,Positive,Positive,True
+elavil,migraines,7,Positive,Neutral,False
+topamax,post traumatic stress syndrom,8,Positive,Positive,True
+protonix,reflux,6,Neutral,Positive,False
+singulair,asthma,10,Positive,Negative,False
+propecia,hair loss,1,Negative,Positive,False
+nuvaring,birth control,10,Positive,Neutral,False
+ativan,nerves,3,Negative,Positive,False
+lovenox,blood clot as a cause of early stage misscarriage,5,Neutral,Positive,False
+zyrtec,year round allergies,6,Neutral,Neutral,True
+hydrochlorothiazide,fluid retention increased bp,9,Positive,Positive,True
+actonel,osteopenia,7,Positive,Negative,False
+diazepam,"mood swings, felt by- polar",5,Neutral,Positive,False
+metformin,type 2 diabetes,10,Positive,Positive,True
+nexium,acid reflux / barrett's esophagus,8,Positive,Positive,True
+spironolactone,hypertension,6,Neutral,Positive,False
+zithromax,ear infection and upper respiratory infection,9,Positive,Positive,True
+remicade,psoriatic arthritis,10,Positive,Neutral,False
+lipitor,cholesterol slightly elevated,1,Negative,Neutral,False
+ketoconazole,ringworm/pityriasis,8,Positive,Negative,False
+effexor-xr,depression,3,Negative,Positive,False
+adderall,adha,4,Negative,Positive,False
+adipex-p,weightloss,9,Positive,Positive,True
+skelaxin,neck and hip pain,1,Negative,Neutral,False
+retin-a,acne,8,Positive,Positive,True
+prevacid,acid reflex,5,Neutral,Positive,False
+synthroid,"fatique, depression",10,Positive,Positive,True
+betamethasone,trochanteric bursitis,2,Negative,Positive,False
+solodyn,rosacea,7,Positive,Positive,True
+provigil,narcolepsy,9,Positive,Positive,True
+renova,sun damage & fine lines,6,Neutral,Positive,False
+klonopin,insomnia,9,Positive,Positive,True
+zyrtec,allergies,9,Positive,Positive,True
+wellbutrin,depression,5,Neutral,Positive,False
+zegerid,"acid reflux, gerd",1,Negative,Positive,False
+claritin,chronic sinus congestion,5,Neutral,Neutral,True
+singulair,asthma \ allergies,5,Neutral,Positive,False
+claritin,"spring allergies, allergy cough",7,Positive,Negative,False
+paxil,major depressive episode,7,Positive,Positive,True
+renova,"prevent aging, improve skin",5,Neutral,Positive,False
+lamictal,reverse the insomnia medication,10,Positive,Neutral,False
+keppra,simple partial seizure,10,Positive,Positive,True
+methotrexate,rheumatoid arthritis,7,Positive,Positive,True
+tenormin,high blood pressure,10,Positive,Positive,True
+keflex,infected lymph node,2,Negative,Negative,True
+byetta,diabetes,10,Positive,Positive,True
+minocycline,acne,1,Negative,Negative,True
+norvasc,high blood pressure,1,Negative,Negative,True
+topamax,migraines,3,Negative,Negative,True
+provigil,narcolepsy,10,Positive,Positive,True
+effexor-xr,depression,10,Positive,Positive,True
+mobic,arthritis/knee pain,6,Neutral,Positive,False
+claritin,alergy,5,Neutral,Positive,False
+humira,"ra, sj gren syndrome",5,Neutral,Positive,False
+chantix,stop smoking,8,Positive,Neutral,False
+valtrex,herpes,7,Positive,Neutral,False
+benadryl,hives,9,Positive,Negative,False
+desonide,exzema of the face,4,Negative,Neutral,False
+minocycline,acne,6,Neutral,Neutral,True
+boniva,preventing osteoporosis,3,Negative,Neutral,False
+qvar,asthma,10,Positive,Positive,True
+nystatin,candida rashes,4,Negative,Neutral,False
+cardura-xl,bph,8,Positive,Positive,True
+augmentin,sinus infection,9,Positive,Negative,False
+propecia,baldness,8,Positive,Positive,True
+metformin,diabetes,9,Positive,Positive,True
+alendronate,bone density tests showed early osteo.,3,Negative,Negative,True
+imuran,crohn's disease,10,Positive,Positive,True
+retin-a,acne,3,Negative,Negative,True
+diazepam,anxiety,1,Negative,Negative,True
+retin-a,fine lines,8,Positive,Positive,True
+halcion,insomnia,3,Negative,Neutral,False
+accutane,acne,3,Negative,Positive,False
+propecia,hair loss,7,Positive,Positive,True
+xyrem,"trouble sleeping at night, tired during day",3,Negative,Negative,True
+adipex-p,weight loss,8,Positive,Positive,True
+ambien,sleeplessness,6,Neutral,Neutral,True
+humira,rheumatoid arthritis,10,Positive,Positive,True
+paxil,depression,1,Negative,Negative,True
+adderall,"depression, ptsd fatigue",8,Positive,Positive,True
+retin-a-micro,"anti-aging, acne",8,Positive,Neutral,False
+seroquel,bipolar disorder,1,Negative,Positive,False
+tramadol,shingles pain,1,Negative,Negative,True
+levaquin,bronchitis,1,Negative,Negative,True
+seasonique,birth control,2,Negative,Negative,True
+singulair,asthma,9,Positive,Positive,True
+differin,acne,6,Neutral,Positive,False
+climara,complete hysterectomy,8,Positive,Positive,True
+adderall,depression/add,10,Positive,Positive,True
+yasmin,birth control,3,Negative,Positive,False
+patanol,eye allergies,8,Positive,Positive,True
+xyrem,insomnia,10,Positive,Positive,True
+effexor-xr,depression,1,Negative,Negative,True
+zithromax,bronchitis infectiion,6,Neutral,Negative,False
+bystolic,heart palpitations,10,Positive,Positive,True
+atenolol,supra ventricular tachycardia,9,Positive,Positive,True
+xanax,anxiety,10,Positive,Negative,False
+sotret,acne,8,Positive,Neutral,False
+zofran,nausea,5,Neutral,Positive,False
+provigil,shift work sleep disorder,9,Positive,Positive,True
+differin,"mild acne, white heads",8,Positive,Neutral,False
+augmentin,ear infection,10,Positive,Positive,True
+prednisolone,prickly heat/heat rash,10,Positive,Positive,True
+ativan,anxiety,1,Negative,Negative,True
+avita,acne,7,Positive,Neutral,False
+doxycycline,pneumonia,10,Positive,Positive,True
+retin-a,acne,6,Neutral,Neutral,True
+prozac,depression,7,Positive,Neutral,False
+differin,acne,2,Negative,Positive,False
+metrogel,bacterial infection,1,Negative,Negative,True
+niaspan,reduce cholesterol,9,Positive,Positive,True
+neurontin,chronic daily headache,9,Positive,Positive,True
+propecia,hair thinning,9,Positive,Positive,True
+paxil,panic attack,9,Positive,Negative,False
+flonase,eustachian tube pain,10,Positive,Positive,True
+effexor,depression,1,Negative,Negative,True
+benadryl,peanut allergy,7,Positive,Negative,False
+tramadol,severe abdominal pain yet to be diagnosed,1,Negative,Positive,False
+effexor,add,5,Neutral,Positive,False
+fosamax,beginning of osteoporosis of the hip,1,Negative,Negative,True
+avita,wrinkles,3,Negative,Neutral,False
+ambien,sleep,7,Positive,Negative,False
+selegiline,"attention deficit problems, concentration difficul",7,Positive,Positive,True
+lyrica,fibromyalgia and myofacial pain,8,Positive,Positive,True
+seasonique,lessen periods due to pain with adenomyosis,7,Positive,Negative,False
+claripel-cream,hyperpigmatation,9,Positive,Positive,True
+augmentin,bronchial infection,10,Positive,Positive,True
+efudex,sun damage removal,8,Positive,Positive,True
+claripel-cream,pigmentation,7,Positive,Negative,False
+prilosec,heart burn,10,Positive,Positive,True
+retin-a-micro,photoaging,9,Positive,Neutral,False
+xanax,anxiety,5,Neutral,Negative,False
+nexium,heart burn,8,Positive,Positive,True
+neoprofen,earache,10,Positive,Positive,True
+metformin,anti-aging prophilatic,9,Positive,Positive,True
+lipitor,high cholesterol,1,Negative,Negative,True
+aldara,superfacial basal cell carcinoma,7,Positive,Negative,False
+atenolol,hypertension,8,Positive,Positive,True
+duac,acne,10,Positive,Positive,True
+lamisil,fungus on big toes,10,Positive,Positive,True
+lunesta,insomnia,8,Positive,Positive,True
+xanax,panic disorder,10,Positive,Positive,True
+strattera,adhd,1,Negative,Negative,True
+zoloft,depression,9,Positive,Positive,True
+vyvanse,"sggression, hyperactivity",4,Negative,Positive,False
+vesicare,overactive bladder,10,Positive,Positive,True
+protonix,chronic heartburn,10,Positive,Positive,True
+innofem,cold chills and hot flashes,10,Positive,Positive,True
+valtrex,chronic cold sores,8,Positive,Positive,True
+estring,post menopause,8,Positive,Positive,True
+baclofen,alcohol addiction,9,Positive,Positive,True
+cipro,rare kidney infection,10,Positive,Negative,False
+ativan,anxiety,9,Positive,Positive,True
+prednisolone,"sle (lupus), rheumatoid arthritis",10,Positive,Positive,True
+clarithromycin,sinusitis,7,Positive,Negative,False
+amitiza,ibs,9,Positive,Negative,False
+keflex,pre-surgery,4,Negative,Negative,True
+lexapro,depression,8,Positive,Positive,True
+malarone,anti malarial,5,Neutral,Negative,False
+prempro,menopause,9,Positive,Positive,True
+atenolol,mitral  valve prolapse,10,Positive,Positive,True
+restasis,dry eyes,10,Positive,Positive,True
+elidel,atopic dernatitis,1,Negative,Negative,True
+trazodone,insomnia,1,Negative,Negative,True
+coumadin,blood clots,5,Neutral,Positive,False
+voltaren,chronic back pain,2,Negative,Neutral,False
+glucophage,diabetes type 2,10,Positive,Positive,True
+trazodone,insomnia,10,Positive,Positive,True
+avita,rhytids,7,Positive,Positive,True
+zyrtec,eczema/allergies,10,Positive,Positive,True
+propecia,receding hairline,1,Negative,Negative,True
+topamax,epilepsy,7,Positive,Positive,True
+citalopram,"depression, anxiety",7,Positive,Positive,True
+aricept,alzheimer's disease,2,Negative,Negative,True
+flagyl,vaginal yeast infection,2,Negative,Negative,True
+zocor,high cholestoral,10,Positive,Positive,True
+lexapro,"anxiety, stress",1,Negative,Positive,False
+ambien,insomnia,8,Positive,Positive,True
+ativan,anxiety,6,Neutral,Positive,False
+provigil,fatigue,7,Positive,Neutral,False
+metformin,polycystic ovarian syndrome,8,Positive,Positive,True
+chantix,quitting smoking,1,Negative,Negative,True
+advair-hfa,asthma,7,Positive,Positive,True
+zocor,high cholesterol,8,Positive,Positive,True
+protopic,undiagnosed,1,Negative,Positive,False
+ultram,fibromyalgia,10,Positive,Positive,True
+paxil,anxiety,10,Positive,Positive,True
+paxil,"depression, social anxiety disorder",7,Positive,Negative,False
+ritalin-la,adhd,8,Positive,Positive,True
+valium,anxiety,6,Neutral,Positive,False
+acyclovir,cold sore,10,Positive,Positive,True
+tenormin,an unknown ekg wave abnormality,4,Negative,Negative,True
+actonel,osteoporosis,10,Positive,Negative,False
+tri-luma,hyperpigmentation,8,Positive,Neutral,False
+imitrex,migraine,8,Positive,Positive,True
+adderall-xr,add,4,Negative,Negative,True
+flonase,allergies,8,Positive,Positive,True
+restasis,dry eye,1,Negative,Positive,False
+lipitor,cholesterol,1,Negative,Negative,True
+dextroamphetamine,add and depression,9,Positive,Positive,True
+triaz,acne,7,Positive,Positive,True
+citalopram,depression/anxiety,6,Neutral,Negative,False
+nexium,gerd,7,Positive,Positive,True
+bactroban,"amputee, constant sores on stump",6,Neutral,Positive,False
+premarin,partial hysterectomy,9,Positive,Positive,True
+cipro,uti,1,Negative,Negative,True
+xanax,anxiety attacks,10,Positive,Positive,True
+zomig,migraines,10,Positive,Positive,True
+gonal-f-rff,increase follicle production prior to iui,9,Positive,Positive,True
+flonase,nasal allergies,10,Positive,Positive,True
+motrin,menstrual cramps,10,Positive,Positive,True
+dexedrine,add,1,Negative,Positive,False
+prilosec,acid reflux,9,Positive,Positive,True
+ziac,high blood pressure,8,Positive,Positive,True
+zoloft,depression,9,Positive,Positive,True
+symbyax,depression,2,Negative,Negative,True
+levora,contraception,7,Positive,Neutral,False
+aciphex,gerd,6,Neutral,Negative,False
+elidel,eczema,7,Positive,Neutral,False
+advair-diskus,asthma,4,Negative,Negative,True
+septra,urinary infection,10,Positive,Positive,True
+imitrex,migraine headaches,10,Positive,Positive,True
+flonase,congestion,7,Positive,Positive,True
+nolvadex,breast cancer,7,Positive,Positive,True
+seasonique,birth control,9,Positive,Positive,True
+triphasil,contraception,10,Positive,Positive,True
+paxil-cr,obsessive compulsive disorder,9,Positive,Positive,True
+citalopram,depression,7,Positive,Negative,False
+tamiflu,flu,9,Positive,Negative,False
+doxycycline,clamydia,7,Positive,Negative,False
+effexor-xr,anxiety,4,Negative,Negative,True
+lamictal,"bipolar disorder, ocd behaviors",10,Positive,Positive,True
+effexor-xr,depression,7,Positive,Positive,True
+strattera,adult adhd,5,Neutral,Negative,False
+paxil,severe depression,1,Negative,Negative,True
+voltaren,primary dysmenorrhea,3,Negative,Negative,True
+lunesta,poor sleep with frequent wakefulness,9,Positive,Positive,True
+solodyn,folliculitis of scalp,6,Neutral,Positive,False
+prevacid,acid reflux,9,Positive,Positive,True
+trazodone,insomnia,8,Positive,Positive,True
+citalopram,depression,10,Positive,Positive,True
+fosamax,osteopenia in both hips and lower back,3,Negative,Negative,True
+chantix,nicotine addiction,7,Positive,Positive,True
+evista,ostheoporosis prevention,9,Positive,Positive,True
+celebrex,arthritis pain,10,Positive,Positive,True
+zyrtec,for allergic condition and there after begning of,10,Positive,Positive,True
+alendronate,osteoporosis,3,Negative,Negative,True
+proscar,alopecia,6,Neutral,Positive,False
+sulfasalazine,psoriatic arthritis,10,Positive,Positive,True
+vyvanse,add,9,Positive,Neutral,False
+paxil,depression,10,Positive,Positive,True
+metformin,diabetes,8,Positive,Negative,False
+darvocet-n,pain after surgery,8,Positive,Negative,False
+paxil,panic attack and anxiety,4,Negative,Positive,False
+provigil,excessive fatigue,10,Positive,Positive,True
+zoloft,depression,9,Positive,Positive,True
+allegra,sinusitis,8,Positive,Positive,True
+fosamax,osteoprosis,1,Negative,Negative,True
+paxil,anxiety,10,Positive,Positive,True
+atarax,anxiety,1,Negative,Negative,True
+humira,ra,9,Positive,Neutral,False
+spironolactone,acne,8,Positive,Positive,True
+proair-hfa,asthma,10,Positive,Positive,True
+spironolactone,acne,10,Positive,Positive,True
+dexedrine,add,2,Negative,Positive,False
+ecotrin,pain,8,Positive,Positive,True
+celebrex,inflamation resulting from damage to knee during s,6,Neutral,Neutral,True
+fentanyl,chronic pain due to neck injury and surgeries,8,Positive,Neutral,False
+lexapro,depression/anxiety,10,Positive,Positive,True
+divigel,menopause,10,Positive,Positive,True
+effexor-xr,chronic depression,6,Neutral,Negative,False
+cymbalta,depression,3,Negative,Positive,False
+wellbutrin,stop smoking,3,Negative,Positive,False
+diazepam,to relax muscles,3,Negative,Positive,False
+adipex-p,weightloss,10,Positive,Positive,True
+prednisone,rheumatoid arthritis,7,Positive,Neutral,False
+evista,slight loss of calcium in hip area,9,Positive,Positive,True
+seasonique,birth control,9,Positive,Positive,True
+retin-a,acne,9,Positive,Positive,True
+tazorac,"acne, photoaging",9,Positive,Neutral,False
+lipitor,cholesterol,2,Negative,Positive,False
+sotret,acne,8,Positive,Neutral,False
+neurontin,"chronic pain, fibromyalgia",1,Negative,Positive,False
+lexapro,anxiety/depression,10,Positive,Negative,False
+retin-a-micro,mild acne,3,Negative,Negative,True
+augmentin,diverticulitis,8,Positive,Positive,True
+atenolol,high blood pressure,10,Positive,Positive,True
+mobic,severe back pain,1,Negative,Negative,True
+lamictal,bipolar disorder,4,Negative,Positive,False
+prempro,menopause,5,Neutral,Positive,False
+biaxin,ulcer,1,Negative,Negative,True
+dostinex,prolactinoma,10,Positive,Positive,True
+omnicef,sore throat,3,Negative,Negative,True
+finacea,acne,9,Positive,Neutral,False
+lyrica,chronic pain,8,Positive,Positive,True
+synthroid,hashimotos syndrome - hypothyroid symptoms,10,Positive,Positive,True
+prevacid,gerd,10,Positive,Positive,True
+advair-hfa,asthma,9,Positive,Positive,True
+lipitor,high  cholesterol,2,Negative,Positive,False
+amoxil,bronchitus,3,Negative,Negative,True
