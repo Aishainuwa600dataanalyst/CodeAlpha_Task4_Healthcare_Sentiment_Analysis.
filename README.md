@@ -4,7 +4,7 @@ Sentiment classification of patient drug reviews (Positive / Neutral / Negative)
 **Logistic Regression** and **LinearSVC** on TF-IDF text features. Built for the CodeAlpha
 machine learning internship (Task 4).
 
-![Model comparison](images/model_comparison.png)
+![Model comparison](https://github.com/Aishainuwa600dataanalyst/CodeAlpha_Task4_Healthcare_Sentiment_Analysis./blob/main/model_comparison.png)
 
 ## Results
 
